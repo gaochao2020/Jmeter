@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1024" it="0" lt="1022" ct="55" ts="1577152875895" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-2" dt="text" by="1381" sby="391" ng="10" na="11">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="1096" it="0" lt="1096" ct="56" ts="1577152875895" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-3" dt="text" by="1381" sby="391" ng="9" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="1163" it="0" lt="1163" ct="57" ts="1577152875895" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-1" dt="text" by="1381" sby="391" ng="8" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="1120" it="0" lt="1120" ct="1" ts="1577152875973" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-4" dt="text" by="1381" sby="391" ng="7" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="1044" it="0" lt="1041" ct="1" ts="1577152876075" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-5" dt="text" by="1381" sby="391" ng="6" na="7">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="1034" it="0" lt="1034" ct="1" ts="1577152876173" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-6" dt="text" by="1381" sby="391" ng="5" na="6">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="1334" it="0" lt="1324" ct="65" ts="1577152875895" s="true" lb="登录接口" rc="200" rm="OK" tn="登录请求 1-1" dt="text" by="8191" sby="277" ng="1" na="5">
+  <java.net.URL>http://10.200.72.22:8799/bspEx/user/login</java.net.URL>
+</httpSample>
+<sample t="2" it="0" lt="0" ct="0" ts="1577152877241" s="true" lb="设置全局变量" rc="200" rm="OK" tn="登录请求 1-1" dt="text" by="0" sby="0" ng="1" na="5"/>
+<httpSample t="974" it="0" lt="973" ct="2" ts="1577152876272" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-7" dt="text" by="1381" sby="391" ng="4" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="676" it="0" lt="676" ct="1" ts="1577152876571" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-10" dt="text" by="1381" sby="391" ng="3" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<sample t="2" it="0" lt="0" ct="0" ts="1577152877267" s="true" lb="验证eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJCQUJZIiwib3JnIjp7ImRlcGFydG1lbnRPcmdhbklkIjoiTzAwMDAwMDAwMDAwMDAwMDAwNTEiLCJlbXBsb3llZU9yZ2FuSWQiOiJPMDAwMDAwMDAwMDAwMDAwMDA2NyIsImNvcnBvcmF0aW9uT3JnYW5JZCI6Ik8wMDAwMDAwMDAwMDAwMDAwMDQyIiwiZW1wbG95ZWVJZCI6IlMwMDAwMDAwMDAwMDAwMDAwMDcyIn0sIm1lbnVfdHlwZSI6IjEiLCJzY29wZSI6WyJ0cnVzdCJdLCJuYW1lIjoiYmFieSIsImV4cCI6MTU3NzE1ODg3NiwicGVybWlzc2lvbl9jb2RlcyI6eyJmdW5jdGlvbnMiOlsiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MGRkOWIwMDBiIiwiZWVhNGNlNmU1ODBhNDQwMTZlNjNkZjUzNDYwMDIxIiwiZWVhNGNlNmUxYmM1ODgwMTZlMjBhMWY5NGQwMDNiIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzZjA1OGYwMDA2IiwiZWVhNGNlNmU0OGQ5YmUwMTZlNDhmZGJkZGIwMDA1IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MGFlY2IwMDBhIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MTc5MjAwMDBlIiwiZWVhNGNlNmU0OWExMjUwMTZlNDlhMTI1ZTYwMDAwIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzNjE0ZmMwMDAyIiwiZWVhNGNlNmUzOWFhMGUwMTZlNDQwMjVlNGEwMDJkIiwiZWVhNGNlNmUzOWFhMGUwMTZlNDUwODM3MDEwMDMwIiwiZWVhNGNlNmUzOWFhMGUwMTZlNDUwODY0NWEwMDMxIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzZThjMzkwMDA0IiwiZWVhNGNlNmU1ODBhNDQwMTZlNTgwYTQ0ZWMwMDAxIiwiZWVhNGNlNmU1ODBhNDQwMTZlNjNkZDYwZGMwMDFmIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MDFhN2EwMDA4IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MjkxMzcwMDExIiwiZWVhNGNlNmU0OWExMjUwMTZlNDlkYjhiZWUwMDBiIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzZWNjZWIwMDA1IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MWI5YjMwMDBmIiwiZWVhNGNlNmUyNDkwZmIwMTZlMjRkMGRkZDkwMDA0IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MTRhY2MwMDBkIiwiZWVhNGNlNmU1ODBhNDQwMTZlNjJkNzllZWQwMDFkIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MTE2MzAwMDBjIiwiZWVhNGNlNmUxYmM1ODgwMTZlMjBhMTdlN2YwMDM4IiwiZWVhNGNlNmUyNDkwZmIwMTZlMjRkMTE5MmQwMDA1Il0sIm9wZXJhdGlvbkNvZGUiOlsib3Blcl95aXlhb2ZlaWJhb3hpYW9ndWFubGkiLCJvcGVyX3NoZW5xaW5nc2hlbnBpbGllYmlhbyIsIm9wZXJfcXVhbnhpYW5mZW5sZWljaGF4dW4iLCJvcGVyX3F1c2hpcmVueXVhbmt1Iiwib3Blcl9qdXRpdG9uZ3poaXRvbmdnYW9jaGF4dW4iLCJvcGVyX3hpbnhpeGl1Z2Fpc2hlbmhlIiwib3Blcl90b25nemhpdG9uZ2dhb2d1YW5saSIsIm9wZXJfeml5b3V0b25namljaGF4dW4iLCJvcGVyX2t1bm5hbmJ1emh1Z3VhbmxpIiwib3Blcl9iaWFuZ2VuZ2ppbHUiLCJvcGVyX3Jlbnl1YW54aW54aWNoYXh1biIsIm9wZXJfeW9uZ2h1cXVhbnhpYW5mZW5wZWkiLCJvcGVyX2NodXNoaWJpYW5nZW5nc2hlbnFpbmciLCJvcGVyX3hpbnhpeGl1Z2FpdGlqaWFvIiwib3Blcl9xdWFueGlhbmZlbmxlaXdlaWh1Iiwib3Blcl96aHVhbnhpYW5nZ29uZ3p1byIsIm9wZXJfem91ZmFuZ3dlaXdlbmd1YW5saSIsIm9wZXJfZ29uZ3p1b3Jlbnl1YW5odWFtaW5nY2VndSIsIm9wZXJfeGlueGlmYWJ1Iiwib3Blcl9jaHVzaGl6dXpoaXNodWd1YW5saSIsIm9wZXJfemh1eXVhbnFpbmdrdWFuZ2d1YW5saSIsIm9wZXJfZGFuZ3p1emhpc2h1Z3VhbmxpIiwib3Blcl9qaWFvc2VxdWFueGlhbmZlbnBlaSIsIm9wZXJfemhpYnVodW9kb25nZ3VhbmxpIiwib3Blcl96aHVhbmNodXJlbnl1YW5rdSIsIm9wZXJfemhlbmdjZWZhZ3VpIl19LCJhdXRob3JpdGllcyI6WyJvcGVyX3lpeWFvZmVpYmFveGlhb2d1YW5saSIsIm9wZXJfc2hlbnFpbmdzaGVucGlsaWViaWFvIiwib3Blcl9xdWFueGlhbmZlbmxlaWNoYXh1biIsIm9wZXJfcXVzaGlyZW55dWFua3UiLCJvcGVyX2p1dGl0b25nemhpdG9uZ2dhb2NoYXh1biIsIm9wZXJfeGlueGl4aXVnYWlzaGVuaGUiLCJvcGVyX3Rvbmd6aGl0b25nZ2FvZ3VhbmxpIiwib3Blcl96aXlvdXRvbmdqaWNoYXh1biIsIm9wZXJfa3VubmFuYnV6aHVndWFubGkiLCJvcGVyX2JpYW5nZW5namlsdSIsIm9wZXJfcmVueXVhbnhpbnhpY2hheHVuIiwib3Blcl95b25naHVxdWFueGlhbmZlbnBlaSIsIm9wZXJfY2h1c2hpYmlhbmdlbmdzaGVucWluZyIsIm9wZXJfeGlueGl4aXVnYWl0aWppYW8iLCJvcGVyX3F1YW54aWFuZmVubGVpd2VpaHUiLCJvcGVyX3podWFueGlhbmdnb25nenVvIiwib3Blcl96b3VmYW5nd2Vpd2VuZ3VhbmxpIiwib3Blcl9nb25nenVvcmVueXVhbmh1YW1pbmdjZWd1Iiwib3Blcl94aW54aWZhYnUiLCJvcGVyX2NodXNoaXp1emhpc2h1Z3VhbmxpIiwib3Blcl96aHV5dWFucWluZ2t1YW5nZ3VhbmxpIiwib3Blcl9kYW5nenV6aGlzaHVndWFubGkiLCJvcGVyX2ppYW9zZXF1YW54aWFuZmVucGVpIiwib3Blcl96aGlidWh1b2RvbmdndWFubGkiLCJvcGVyX3podWFuY2h1cmVueXVhbmt1Iiwib3Blcl96aGVuZ2NlZmFndWkiXSwianRpIjoiMWY2Njg1OGUtNGVjNC00ZDM4LWI0YWMtNDRkNTVkMDZkMjBhIiwiY2xpZW50X2lkIjoiYnBtLWFkbWluLWNvbnNvbGUifQ.Ds_lO1B3TlUbXpdHw_Kb6iRXeOjALTE2ZQZB9u67pPL-xq5TbTrVblsxg-kPWdU2kKOcEkv2pMzvR7VoKlyZK8mPDnstSJj19zxYL2r9XWWlDAbkAtiMo0OwlvNIZPcesk600L8BN76PIiv6QfL648Cz1iFof_pp_zcAGS6ta9oPNOrnh5DCSoSEV3U6eEbO6B9J5GTBMaTbafh-WE555vGqEpZB1LrqHynuHZ27wbFPX1cGPEK0z5IoyOIQcwM6nLnp-kIIwnsIJcPB55Pb4v-YMlwexuq6PJnS0gbIMLOL04D5iUVSPSxOZ5Lb5UTJptUJUS2KWfuMfMOJvtZuLw&quot;,&quot;token_type&quot;:&quot;bearer&quot;,&quot;refresh_token&quot;:&quot;eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJCQUJZIiwib3JnIjp7ImRlcGFydG1lbnRPcmdhbklkIjoiTzAwMDAwMDAwMDAwMDAwMDAwNTEiLCJlbXBsb3llZU9yZ2FuSWQiOiJPMDAwMDAwMDAwMDAwMDAwMDA2NyIsImNvcnBvcmF0aW9uT3JnYW5JZCI6Ik8wMDAwMDAwMDAwMDAwMDAwMDQyIiwiZW1wbG95ZWVJZCI6IlMwMDAwMDAwMDAwMDAwMDAwMDcyIn0sIm1lbnVfdHlwZSI6IjEiLCJzY29wZSI6WyJ0cnVzdCJdLCJhdGkiOiIxZjY2ODU4ZS00ZWM0LTRkMzgtYjRhYy00NGQ1NWQwNmQyMGEiLCJuYW1lIjoiYmFieSIsImV4cCI6MTU3OTc0NDg3NiwicGVybWlzc2lvbl9jb2RlcyI6eyJmdW5jdGlvbnMiOlsiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MGRkOWIwMDBiIiwiZWVhNGNlNmU1ODBhNDQwMTZlNjNkZjUzNDYwMDIxIiwiZWVhNGNlNmUxYmM1ODgwMTZlMjBhMWY5NGQwMDNiIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzZjA1OGYwMDA2IiwiZWVhNGNlNmU0OGQ5YmUwMTZlNDhmZGJkZGIwMDA1IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MGFlY2IwMDBhIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MTc5MjAwMDBlIiwiZWVhNGNlNmU0OWExMjUwMTZlNDlhMTI1ZTYwMDAwIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzNjE0ZmMwMDAyIiwiZWVhNGNlNmUzOWFhMGUwMTZlNDQwMjVlNGEwMDJkIiwiZWVhNGNlNmUzOWFhMGUwMTZlNDUwODM3MDEwMDMwIiwiZWVhNGNlNmUzOWFhMGUwMTZlNDUwODY0NWEwMDMxIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzZThjMzkwMDA0IiwiZWVhNGNlNmU1ODBhNDQwMTZlNTgwYTQ0ZWMwMDAxIiwiZWVhNGNlNmU1ODBhNDQwMTZlNjNkZDYwZGMwMDFmIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MDFhN2EwMDA4IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MjkxMzcwMDExIiwiZWVhNGNlNmU0OWExMjUwMTZlNDlkYjhiZWUwMDBiIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2UzZWNjZWIwMDA1IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MWI5YjMwMDBmIiwiZWVhNGNlNmUyNDkwZmIwMTZlMjRkMGRkZDkwMDA0IiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MTRhY2MwMDBkIiwiZWVhNGNlNmU1ODBhNDQwMTZlNjJkNzllZWQwMDFkIiwiZWVhNGNlNmUzOWFhMGUwMTZlM2U0MTE2MzAwMDBjIiwiZWVhNGNlNmUxYmM1ODgwMTZlMjBhMTdlN2YwMDM4IiwiZWVhNGNlNmUyNDkwZmIwMTZlMjRkMTE5MmQwMDA1Il0sIm9wZXJhdGlvbkNvZGUiOlsib3Blcl95aXlhb2ZlaWJhb3hpYW9ndWFubGkiLCJvcGVyX3NoZW5xaW5nc2hlbnBpbGllYmlhbyIsIm9wZXJfcXVhbnhpYW5mZW5sZWljaGF4dW4iLCJvcGVyX3F1c2hpcmVueXVhbmt1Iiwib3Blcl9qdXRpdG9uZ3poaXRvbmdnYW9jaGF4dW4iLCJvcGVyX3hpbnhpeGl1Z2Fpc2hlbmhlIiwib3Blcl90b25nemhpdG9uZ2dhb2d1YW5saSIsIm9wZXJfeml5b3V0b25namljaGF4dW4iLCJvcGVyX2t1bm5hbmJ1emh1Z3VhbmxpIiwib3Blcl9iaWFuZ2VuZ2ppbHUiLCJvcGVyX3Jlbnl1YW54aW54aWNoYXh1biIsIm9wZXJfeW9uZ2h1cXVhbnhpYW5mZW5wZWkiLCJvcGVyX2NodXNoaWJpYW5nZW5nc2hlbnFpbmciLCJvcGVyX3hpbnhpeGl1Z2FpdGlqaWFvIiwib3Blcl9xdWFueGlhbmZlbmxlaXdlaWh1Iiwib3Blcl96aHVhbnhpYW5nZ29uZ3p1byIsIm9wZXJfem91ZmFuZ3dlaXdlbmd1YW5saSIsIm9wZXJfZ29uZ3p1b3Jlbnl1YW5odWFtaW5nY2VndSIsIm9wZXJfeGlueGlmYWJ1Iiwib3Blcl9jaHVzaGl6dXpoaXNodWd1YW5saSIsIm9wZXJfemh1eXVhbnFpbmdrdWFuZ2d1YW5saSIsIm9wZXJfZGFuZ3p1emhpc2h1Z3VhbmxpIiwib3Blcl9qaWFvc2VxdWFueGlhbmZlbnBlaSIsIm9wZXJfemhpYnVodW9kb25nZ3VhbmxpIiwib3Blcl96aHVhbmNodXJlbnl1YW5rdSIsIm9wZXJfemhlbmdjZWZhZ3VpIl19LCJhdXRob3JpdGllcyI6WyJvcGVyX3lpeWFvZmVpYmFveGlhb2d1YW5saSIsIm9wZXJfc2hlbnFpbmdzaGVucGlsaWViaWFvIiwib3Blcl9xdWFueGlhbmZlbmxlaWNoYXh1biIsIm9wZXJfcXVzaGlyZW55dWFua3UiLCJvcGVyX2p1dGl0b25nemhpdG9uZ2dhb2NoYXh1biIsIm9wZXJfeGlueGl4aXVnYWlzaGVuaGUiLCJvcGVyX3Rvbmd6aGl0b25nZ2FvZ3VhbmxpIiwib3Blcl96aXlvdXRvbmdqaWNoYXh1biIsIm9wZXJfa3VubmFuYnV6aHVndWFubGkiLCJvcGVyX2JpYW5nZW5namlsdSIsIm9wZXJfcmVueXVhbnhpbnhpY2hheHVuIiwib3Blcl95b25naHVxdWFueGlhbmZlbnBlaSIsIm9wZXJfY2h1c2hpYmlhbmdlbmdzaGVucWluZyIsIm9wZXJfeGlueGl4aXVnYWl0aWppYW8iLCJvcGVyX3F1YW54aWFuZmVubGVpd2VpaHUiLCJvcGVyX3podWFueGlhbmdnb25nenVvIiwib3Blcl96b3VmYW5nd2Vpd2VuZ3VhbmxpIiwib3Blcl9nb25nenVvcmVueXVhbmh1YW1pbmdjZWd1Iiwib3Blcl94aW54aWZhYnUiLCJvcGVyX2NodXNoaXp1emhpc2h1Z3VhbmxpIiwib3Blcl96aHV5dWFucWluZ2t1YW5nZ3VhbmxpIiwib3Blcl9kYW5nenV6aGlzaHVndWFubGkiLCJvcGVyX2ppYW9zZXF1YW54aWFuZmVucGVpIiwib3Blcl96aGlidWh1b2RvbmdndWFubGkiLCJvcGVyX3podWFuY2h1cmVueXVhbmt1Iiwib3Blcl96aGVuZ2NlZmFndWkiXSwianRpIjoiZjRlM2YxMDMtODA0OC00YzM4LTg2MWQtYTQ3YzdhOGE4NTY1IiwiY2xpZW50X2lkIjoiYnBtLWFkbWluLWNvbnNvbGUifQ.CTGvvhzyEvuS0kIzkdd7q-Rkgl69NWlVAKBTCsqTcVKjMxjD014rxRe2c7WoeUfhn7FJmW1DLUMyt9bCGa4LXTJd-OdEK345nQKXg6yuLm2J39WUJGMX_cpLmDKuiK2MrcbUjarL80saB8Dyd82NFWGt_W6YEL5X9zdHppagNSN2RGbtKPogwFSUPc3ltwUAMiUZyfwK4Dqd4Q6RtVSCKQk-rkZV3btgJDdGSzekjZaJvhv2wSXgbkrahadQZHpOYzvusoGgmgOXJHAJKup_zlYaezna5iSO34bcmUVuCAwOSIFipCPz7vTG6ixeuXz329u9ak-uRS8Aza6R6dLHLA" rc="200" rm="OK" tn="登录请求 1-1" dt="text" by="23922" sby="0" ng="1" na="3"/>
+<httpSample t="812" it="0" lt="812" ct="1" ts="1577152876472" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-9" dt="text" by="1381" sby="391" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+<httpSample t="942" it="0" lt="941" ct="1" ts="1577152876373" s="true" lb="查询接口" rc="200" rm="" tn="查询 2-8" dt="text" by="1381" sby="391" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://10.200.72.22:8077/userBaseInfo/queryList</java.net.URL>
+</httpSample>
+
+</testResults>

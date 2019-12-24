@@ -1,0 +1,91 @@
+2019-12-24 10:01:14,473 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2019-12-24 10:01:14,494 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-12-24 10:01:14,495 INFO o.a.j.JMeter: Setting System property: sun.net.http.allowRestrictedHeaders=true
+2019-12-24 10:01:14,501 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: java.version=1.8.0_221
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: os.name=Windows 10
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: os.arch=amd64
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: os.version=10.0
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: file.encoding=GBK
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: java.awt.headless=true
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: Max memory     =514850816
+2019-12-24 10:01:14,502 INFO o.a.j.JMeter: Available Processors =4
+2019-12-24 10:01:14,510 INFO o.a.j.JMeter: Default Locale=中文 (中国)
+2019-12-24 10:01:14,510 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2019-12-24 10:01:14,510 INFO o.a.j.JMeter: JMeterHome=D:\workspace1.8maven\autotest\target\jmeter
+2019-12-24 10:01:14,510 INFO o.a.j.JMeter: user.dir  =D:\workspace1.8maven\autotest\target\jmeter\bin
+2019-12-24 10:01:14,511 INFO o.a.j.JMeter: PWD       =D:\workspace1.8maven\autotest\target\jmeter\bin
+2019-12-24 10:01:14,513 INFO o.a.j.JMeter: IP: 10.200.72.85 Name: gao9chao10 FullName: gao9chao10.home.langchao.com
+2019-12-24 10:01:14,518 INFO o.a.j.s.FileServer: Default base='D:\workspace1.8maven\autotest\target\jmeter\bin'
+2019-12-24 10:01:14,524 INFO o.a.j.s.FileServer: Set new base='D:\workspace1.8maven\autotest\target\jmeter\testFiles'
+2019-12-24 10:01:14,719 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-12-24 10:01:14,756 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-12-24 10:01:14,770 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-12-24 10:01:14,781 INFO o.a.j.s.SaveService: Loading file: D:\workspace1.8maven\autotest\target\jmeter\testFiles\人员信息查询.jmx
+2019-12-24 10:01:14,854 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-24 10:01:14,854 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-24 10:01:14,854 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-24 10:01:14,855 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-24 10:01:14,855 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-12-24 10:01:14,855 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-12-24 10:01:14,981 INFO o.a.j.JMeter: Creating summariser <summary>
+2019-12-24 10:01:14,990 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2019-12-24 10:01:14,993 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-12-24 10:01:14,993 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-12-24 10:01:15,003 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-12-24 10:01:15,004 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-12-24 10:01:15,555 INFO o.a.j.JMeter: 正在运行的测试 (1577152875555)
+2019-12-24 10:01:15,650 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 登录请求
+2019-12-24 10:01:15,650 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group 登录请求.
+2019-12-24 10:01:15,650 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2019-12-24 10:01:15,651 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2019-12-24 10:01:15,663 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2019-12-24 10:01:15,663 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : 查询
+2019-12-24 10:01:15,663 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group 查询.
+2019-12-24 10:01:15,663 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2019-12-24 10:01:15,663 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=10 ramp-up=1 delayedStart=false
+2019-12-24 10:01:15,670 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2019-12-24 10:01:15,671 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2019-12-24 10:01:15,672 INFO o.a.j.t.JMeterThread: Thread started: 登录请求 1-1
+2019-12-24 10:01:15,676 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-1
+2019-12-24 10:01:15,696 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = gao9chao10
+2019-12-24 10:01:15,709 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2019-12-24 10:01:15,738 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-12-24 10:01:15,739 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-12-24 10:01:15,739 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-12-24 10:01:15,739 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-12-24 10:01:15,793 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-2
+2019-12-24 10:01:15,880 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-3
+2019-12-24 10:01:15,973 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-4
+2019-12-24 10:01:16,073 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-5
+2019-12-24 10:01:16,173 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-6
+2019-12-24 10:01:16,272 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-7
+2019-12-24 10:01:16,373 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-8
+2019-12-24 10:01:16,471 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-9
+2019-12-24 10:01:16,571 INFO o.a.j.t.JMeterThread: Thread started: 查询 2-10
+2019-12-24 10:01:16,945 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-2
+2019-12-24 10:01:16,946 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-2
+2019-12-24 10:01:16,994 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-3
+2019-12-24 10:01:16,994 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-3
+2019-12-24 10:01:17,060 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-1
+2019-12-24 10:01:17,060 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-1
+2019-12-24 10:01:17,095 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-4
+2019-12-24 10:01:17,095 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-4
+2019-12-24 10:01:17,120 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-5
+2019-12-24 10:01:17,120 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-5
+2019-12-24 10:01:17,209 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-6
+2019-12-24 10:01:17,210 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-6
+2019-12-24 10:01:17,248 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-7
+2019-12-24 10:01:17,248 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-7
+2019-12-24 10:01:17,249 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-10
+2019-12-24 10:01:17,249 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-10
+2019-12-24 10:01:17,273 INFO o.a.j.t.JMeterThread: Thread is done: 登录请求 1-1
+2019-12-24 10:01:17,273 INFO o.a.j.t.JMeterThread: Thread finished: 登录请求 1-1
+2019-12-24 10:01:17,286 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-9
+2019-12-24 10:01:17,286 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-9
+2019-12-24 10:01:17,317 INFO o.a.j.t.JMeterThread: Thread is done: 查询 2-8
+2019-12-24 10:01:17,318 INFO o.a.j.t.JMeterThread: Thread finished: 查询 2-8
+2019-12-24 10:01:17,318 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2019-12-24 10:01:17,335 INFO o.a.j.r.Summariser: summary =     13 in 00:00:02 =    7.3/s Avg:   863 Min:     2 Max:  1334 Err:     0 (0.00%)
